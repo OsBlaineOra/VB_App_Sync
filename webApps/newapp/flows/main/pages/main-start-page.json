@@ -6,6 +6,10 @@
   "types": {},
   "eventListeners": {},
   "imports": {
-    "components": {}
+    "components": {
+      "oj-highlight-text": {
+        "path": "ojs/ojhighlighttext"
+      }
+   }
   }
 }
